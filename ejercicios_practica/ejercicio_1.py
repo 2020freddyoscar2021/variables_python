@@ -21,4 +21,12 @@ numero_2 = 7
 # Imprimir en pantalla el resultado de la suma
 # print(....)
 
+suma_f = numero_1 + numero_2
+
+print('la suma de', numero_1, 'y', numero_2, 'es' ,suma_f )
+
 # Repita el procedimiento para realizar la resta
+
+resta_f = numero_1 - numero_2
+
+print('la resta del', numero_1, 'y', numero_2, 'es de: ', resta_f)
